@@ -20,14 +20,14 @@ PrimeReact team has created various samples to get you started.
 
 ### Screenshot
 * cra-forms
-![](screenshot\cra-forms_1.png)
-![](screenshot\cra-forms_2.png)
-![](screenshot\cra-forms_3.png)
-![](screenshot\cra-forms_4.png)
+![](screenshot/cra-forms_1.png)
+![](screenshot/cra-forms_2.png)
+![](screenshot/cra-forms_3.png)
+![](screenshot/cra-forms_4.png)
 
 * nextjs-crud
-![](screenshot\nextjs-crud_1.png)
+![](screenshot/nextjs-crud_1.png)
 
 * nextjs-basic
-![](screenshot\nextjs-basic_1.png)
-![](screenshot\nextjs-basic_2.png)
+![](screenshot/nextjs-basic_1.png)
+![](screenshot/nextjs-basic_2.png)
